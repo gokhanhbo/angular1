@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class ProductComponent implements OnInit {
 
   constructor() { }
+  message = "Angular Yeni Component Denemesi"
 
   ngOnInit(): void {
   }
