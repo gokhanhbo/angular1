@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-product',
-  templateUrl: `<p>
+  template: `<p>
                   {{message}}
                 </p>`,
   styleUrls: ['./product.component.css']
